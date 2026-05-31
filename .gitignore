@@ -1,4 +1,5 @@
 node_modules/
+data.db
 dist/
 build/
 out/
@@ -152,3 +153,6 @@ docs/
 tools/
 workspace-app/
 data/
+server/
+*.png
+prompt.txt
